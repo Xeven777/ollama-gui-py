@@ -1,14 +1,7 @@
 # Ollama-GUI
 
-![GitHub License](https://img.shields.io/github/license/chyok/ollama-gui)
-![PyPI - Version](https://img.shields.io/pypi/v/ollama-gui)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/ollama-gui)
-
 A very simple ollama GUI, implemented using the built-in Python Tkinter library, with no additional dependencies.
 Provide you with the simplest possible visual Ollama interface.
-
-![ollama-gui-1 2 0](https://github.com/user-attachments/assets/a4bb979b-68a4-4062-b484-7542f2a866e0)
-
 
 ## 🚀 Features
 ### v1.1.0
